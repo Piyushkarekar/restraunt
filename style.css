@@ -81,7 +81,12 @@ nav a:hover{
     align-items: center;
     text-align: center;
     height: 100vh;
-    background-color: black;
+   background: linear-gradient(to right, #000000, #a3a976
+   );
+    transition: background-color 0.5s ease;
+
+
+
     color: white;
 }
 .hero h1{
